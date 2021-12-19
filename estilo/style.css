@@ -35,7 +35,7 @@ header h1 {
     /*text-transform: uppercase;/* tranforma em mauiscula */
     font-variant: small-caps;/* letras mauiscula com mais estilo */
     font-family: var(--fonte2);
-    font-size: 10vw;/* 10% da largura da tela. É um recurso temporário, mais existe outras formas melhores */
+    font-size: 60px;/* 10% da largura da tela. É um recurso temporário, mais existe outras formas melhores */
 }
 header p{
     padding-bottom: 50px;
